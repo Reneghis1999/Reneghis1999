@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, je suis RENE-GHISLAIN NAYO</h1>
+<h3 align="center">Je suis un Genie Logiciel passionné par le developpement web & Créateur de SaaS</h3>
 
-<!--
-**Reneghis1999/Reneghis1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
+- 🔭 Je développe actuellement : **applications web modernes & SaaS**
+- 🌱 Je bosse actuellement : *Python, Nuxt.js, NestJS & Django**
+- 👨‍💻 Mes projets : (bientôt disponibles sur mon portfolio)
+- mon portfolio : https://nayoreneghislainportfolio.vercel.app/
+- 📫 Me contacter : viceprojects19@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Langages et outils
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nuxtjs,nodejs,nestjs,python,django,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Statistiques GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TONUSERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TONUSERNAME&theme=tokyonight" />
+</p>
