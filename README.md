@@ -34,7 +34,7 @@ Je conçois et développe des applications web modernes, performantes et orient�
 
 ## 🧰 Stack & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nuxtjs,nodejs,nestjs,python,django,git,github,vscode,mysql,postgresql,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nuxtjs,nodejs,nestjs,python,django,git,github,vscode,mysql,postgresql" />
 </p>
 
 ---
