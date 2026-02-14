@@ -16,6 +16,22 @@ Je conçois et développe des applications web modernes, performantes et orient�
 
 ---
 
+---
+
+## 📬 Connect with me
+
+<p align="center">
+  <a href="https://www.instagram.com/ton_instagram" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ren%C3%A9-ghislain-nayo-643368362/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+</p>
+
+----
+
 ## 🧰 Stack & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nuxtjs,nodejs,nestjs,python,django,git,github,vscode" />
@@ -23,20 +39,6 @@ Je conçois et développe des applications web modernes, performantes et orient�
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reneghis1999&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reneghis1999&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reneghis1999&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 👀 Visiteurs
 <p align="center">
