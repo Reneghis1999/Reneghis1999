@@ -6,8 +6,9 @@ Je conçois et développe des applications web modernes, performantes et orient�
 </p>
 
 <p align="center">
-  <img src="images/1744892892589.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Reneghis1999/Reneghis1999/raw/main/1744892892589.jpeg" alt="Banner" width="100%" />
 </p>
+
 
 
 ---
