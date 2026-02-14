@@ -5,6 +5,11 @@
 Je conçois et développe des applications web modernes, performantes et orientées utilisateurs.
 </p>
 
+<p align="center">
+  <img src="images/1744892892589.png" alt="Banner" width="100%" />
+</p>
+
+
 ---
 
 ## 🚀 À propos de moi
