@@ -15,7 +15,7 @@ Je conçois et développe des applications web modernes, performantes et orient�
 
 ## 🚀 À propos de moi
 - 🔭 Je développe actuellement des **applications web & SaaS**
-- 🌱 J'approfondis actuellement **Python, Django, Nuxt.js et NestJS**
+- 🌱 Je bosse actuellement **Python, Django, Nuxt.js et NestJS**
 - 🧠 Intéressé par les solutions digitales pour entreprises
 - 👨‍💻 Portfolio : https://nayoreneghislainportfolio.vercel.app/
 - 📫 Email : **viceprojects19@gmail.com**
