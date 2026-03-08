@@ -1,4 +1,4 @@
-Hello world 🌍  
+<h1> Hello world 🌍 </h1> 
 Un génie logiciel du Togo 🇹🇬
 
 Je suis actuellement en train d'apprendre **Python, Django, Nuxt.js et NestJS**.
