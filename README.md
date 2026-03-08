@@ -11,5 +11,5 @@ Langages, Frameworks et Outils :
 </p>
 
 Portfolio : [nayoreneghislainportfolio.vercel.app](https://nayoreneghislainportfolio.vercel.app/)  
-Email : viceprojects19@gmail.com
+Email : viceprojects19@gmail.com  
 LinkedIn : [René-Ghislain Nayo](https://www.linkedin.com/in/ren%C3%A9-ghislain-nayo-643368362/)
