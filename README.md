@@ -1,13 +1,13 @@
 Hello world 🌍  
-A Software Genius from Togo 🇹🇬
+Un génie logiciel du Togo 🇹🇬
 
-I’m currently learning Python, Django, Nuxt.js & NestJS.
+Je suis actuellement en train d'apprendre **Python, Django, Nuxt.js et NestJS**.
 
-Languages, Frameworks and Tools:
+Langages, Frameworks et Outils :
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nuxtjs,nestjs,javascript,typescript,html,css,react,nodejs,mysql,postman,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mysql,postman,python,django,nuxtjs,nestjs,javascript,typescript,docker" />
 </p>
 
-Portfolio: https://nayoreneghislainportfolio.vercel.app/  
-Email: viceprojects19@gmail.com
+Portfolio : [nayoreneghislainportfolio.vercel.app](https://nayoreneghislainportfolio.vercel.app/)  
+Email : viceprojects19@gmail.com
