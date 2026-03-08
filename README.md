@@ -5,7 +5,9 @@ I’m currently learning Python, Django, Nuxt.js & NestJS.
 
 Languages, Frameworks and Tools:
 
-python django nuxtjs nestjs javascript typescript html5 css3 react nodejs mysql postman docker figma
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,nuxtjs,nestjs,javascript,typescript,html,css,react,nodejs,mysql,postman,docker,figma" />
+</p>
 
 Portfolio: https://nayoreneghislainportfolio.vercel.app/  
 Email: viceprojects19@gmail.com
