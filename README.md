@@ -7,7 +7,7 @@ Je suis actuellement en train d'apprendre **Python, Django, Nuxt.js et NestJS**.
 Langages, Frameworks et Outils :
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,mysql,postman,python,django,nuxtjs,nestjs,javascript,typescript,docker"  />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,mysql,postman,python,django,vuejs,nuxtjs,nestjs,javascript,typescript"  />
 </p>
 
 Portfolio : [rgnayodev.vercel.app](https://rgnayodev.vercel.app/)  
