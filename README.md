@@ -2,7 +2,7 @@
 
 Un génie logiciel du Togo 🇹🇬
 
-Je suis actuellement en train d'apprendre **Python, Django, Nuxt.js et NestJS**.
+Je suis actuellement en train d'apprendre **Python, Django, Vue js et NestJS**.
 
 Langages, Frameworks et Outils :
 
