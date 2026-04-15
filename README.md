@@ -10,6 +10,6 @@ Langages, Frameworks et Outils :
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,mysql,postman,python,django,vuejs,nestjs,javascript,typescript"  />
 </p>
 
-Portfolio : [rgnayodev.vercel.app](https://rgnayodev.vercel.app/)  
+Portfolio : En cours...
 Email : viceprojects19@gmail.com  
 LinkedIn : [René-Ghislain Nayo](https://www.linkedin.com/in/ren%C3%A9-ghislain-nayo-643368362/)
